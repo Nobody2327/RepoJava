@@ -4,7 +4,8 @@ public class HolaMundo {
 	
 private void sysout() {
 	fafgagsggdhdgjhfhjkghk
-	sysout("Holadasdasdsdasf")
+	sysout("Holadasdasdsdasf");
+	sysout("Yiiiii");
 }
 
 }
